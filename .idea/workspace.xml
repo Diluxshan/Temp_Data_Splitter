@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a4d0c39-6370-4de8-8a6c-cf98d935810c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV_writer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/matche_within_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/matche_within_file.py" afterDir="false" />
     </list>
@@ -32,7 +32,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.matche_within_file">
+  <component name="RunManager" selected="Python.CSV_writer">
+    <configuration name="CSV_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSV_writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="filter_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CSV_writer" />
         <item itemvalue="Python.matche_within_file" />
         <item itemvalue="Python.test_code" />
         <item itemvalue="Python.sample_graph" />
@@ -137,33 +159,53 @@
       <option name="presentableId" value="Default" />
       <updated>1621281059175</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1621402287123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621402287124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2" timestamp="1621402286687">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1621402286687" />
     <state x="497" y="314" key="Github.CreateGistDialog" timestamp="1621291328752">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="497" y="314" key="Github.CreateGistDialog/49.27.1317.741@49.27.1317.741" timestamp="1621291328752" />
-    <state width="1294" height="175" key="GridCell.Tab.0.bottom" timestamp="1621398691359">
+    <state width="1294" height="168" key="GridCell.Tab.0.bottom" timestamp="1621429010874">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1294" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1621398691359" />
-    <state width="1294" height="175" key="GridCell.Tab.0.center" timestamp="1621398691358">
+    <state width="1294" height="168" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1621429010874" />
+    <state width="1294" height="168" key="GridCell.Tab.0.center" timestamp="1621429010873">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1294" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1621398691358" />
-    <state width="1294" height="175" key="GridCell.Tab.0.left" timestamp="1621398691358">
+    <state width="1294" height="168" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1621429010873" />
+    <state width="1294" height="168" key="GridCell.Tab.0.left" timestamp="1621429010873">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1294" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1621398691358" />
-    <state width="1294" height="175" key="GridCell.Tab.0.right" timestamp="1621398691359">
+    <state width="1294" height="168" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1621429010873" />
+    <state width="1294" height="168" key="GridCell.Tab.0.right" timestamp="1621429010873">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1294" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1621398691359" />
+    <state width="1294" height="168" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1621429010873" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1621281531071">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1621281531071" />
+    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1621402302786">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1621402302786" />
     <state x="363" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1621344374023">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
