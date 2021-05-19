@@ -34,3 +34,4 @@
         date_only = val[size2 - 2:]
         date_only = val[size2 - 2:]
         print(date_only)
+        #
