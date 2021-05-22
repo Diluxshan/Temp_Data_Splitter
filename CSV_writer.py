@@ -22,3 +22,4 @@ with open("/home/dilux/SenzMate/Bogawanthalawa/Analyzing/output_may21.csv","w",n
     cw = csv.DictWriter(f,title,delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
     cw.writeheader()
     cw.writerows(arr_list)
+    #
