@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621591852070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changing the file">
+      <created>1621653700278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621653700278</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,10 +196,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="changing the file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2" timestamp="1621591851608">
+    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2" timestamp="1621653698958">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1621591851608" />
+    <state x="299" y="27" width="807" height="741" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1621653698958" />
     <state x="497" y="314" key="Github.CreateGistDialog" timestamp="1621291328752">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -217,13 +224,13 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1621281531071" />
-    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1621653692880">
+    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1622399965495">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1621653692880" />
-    <state x="363" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1621592048049">
+    <state x="302" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1622399965495" />
+    <state x="363" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1622399959367">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="363" y="224" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1621592048049" />
+    <state x="363" y="224" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1622399959367" />
   </component>
 </project>

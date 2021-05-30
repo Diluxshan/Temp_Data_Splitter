@@ -13,6 +13,7 @@ arr_list = []
 arr_date = []
 arr_month_date = []
 
+
 for row in rows:
     arr_list.append(row)
 print(arr_list)
